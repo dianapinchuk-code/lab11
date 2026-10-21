@@ -217,3 +217,4 @@ export function initApp() {
     }
   });
 }
+// Challenge 1 fixes
