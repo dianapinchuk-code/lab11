@@ -218,3 +218,5 @@ export function initApp() {
   });
 }
 // Challenge 1 fixes
+
+// Challenge 2 fixes
